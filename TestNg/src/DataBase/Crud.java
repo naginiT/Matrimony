@@ -153,6 +153,7 @@ public class Crud
 		}
 		catch(Exception e)
 		{
-			System.out.println(e);
+			System.out.println("hai");
+			
 		}}
 }
