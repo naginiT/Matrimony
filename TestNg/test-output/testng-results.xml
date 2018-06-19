@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=D:\MouniWork\FullPageScreenshots.png height ='500' width='550'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50772" started-at="2018-06-14T23:36:17Z" finished-at="2018-06-14T23:37:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50772" started-at="2018-06-14T23:36:17Z" finished-at="2018-06-14T23:37:08Z">
+      <class name="TestNGPractice.FullPageScreenShot">
+        <test-method status="PASS" signature="screen()[pri:0, instance:TestNGPractice.FullPageScreenShot@4edc67]" name="screen" duration-ms="50725" started-at="2018-06-14T11:36:17Z" finished-at="2018-06-14T11:37:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src=D:\MouniWork\FullPageScreenshots.png height ='500' width='550'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- screen -->
+      </class> <!-- TestNGPractice.FullPageScreenShot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
